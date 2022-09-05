@@ -12,7 +12,7 @@ public class ClientGUI extends JFrame{
     private String username;
     private JPanel mainPanel;
 
-    private JLabel usrLbl;
+    private JLabel  usrLbl;
     private JTextField usrTxt;
     private JButton cnfBtn;
 
